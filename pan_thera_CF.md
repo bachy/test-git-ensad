@@ -24,3 +24,5 @@ Bon, c'est super, on est tous réunis, à la fois dans cette salle et dans le wo
    (_Y_.)'  ._   )  `._ `. ``-..-'
  _..`--'_..-_/  /--'_.' ,'
 (il),-''  (li),'  ((!.
+
+désolé le ASCII ne marche pas sur GIT...
